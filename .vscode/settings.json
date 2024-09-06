@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.showInlineBreakpointCandidates": true,
+    "debug.showBreakpointsInOverviewRuler": false,
+    "cmake.sourceDirectory": "E:/projects/AL-Rova/windows/runner"
+}

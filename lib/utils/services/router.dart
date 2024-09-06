@@ -1,0 +1,19 @@
+import 'package:al_rova/cubit/customer/cart_wishlist_similar/cart_wishlist_similar_cubit.dart';
+import 'package:al_rova/cubit/customer/category/category_cubit.dart';
+import 'package:al_rova/cubit/customer/product_cubit/product_cubit.dart';
+import 'package:al_rova/cubit/seller/ordered_product/ordered_product_cubit.dart';
+import 'package:al_rova/cubit/seller/product_cubit/product_cubit.dart';
+import 'package:al_rova/di.dart';
+import 'package:al_rova/utils/services/route_constant.dart';
+import 'package:al_rova/views/customer/home/customer_home.dart';
+import 'package:al_rova/views/auth/login.dart';
+import 'package:al_rova/views/auth/otp.dart';
+import 'package:al_rova/views/auth/register.dart';
+import 'package:al_rova/views/auth/select_crop.dart';
+import 'package:al_rova/views/seller/home/seller_home.dart';
+import 'package:al_rova/views/splash.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+
+part 'router.main.dart';

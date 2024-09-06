@@ -1,0 +1,252 @@
+{
+  "tomato": {
+    "about": [
+      "Tomato, (Solanum lycopersicum), a flowering plant of the nightshade family (Solanaceae), cultivated extensively for its edible fruits.",
+      "Labelled as a vegetable for nutritional purposes, tomatoes are a good source of vitamin C and the phytochemical lycopene",
+      "The fruits are commonly eaten raw in salads, served as a cooked vegetable, used as an ingredient in various prepared dishes, and pickled.",
+      "Additionally, a large percentage of the world's tomato crop is processed; products include canned tomatoes, tomato juice, ketchup, puree, paste, and sun-dried tomatoes or dehydrated pulp."
+    ],
+    "growing": [
+      "Tomato is a warm-season crop. The best fruit colour and quality is obtained at a temperature range of 21-24°C. Temperatures above 32°C adversely affect the fruit set and development. The plants cannot withstand frost and high humidity. It requires a low to medium rainfall. Bright sunshine at the time of fruit set helps to develop dark red coloured fruits. Temperature below 10 degrees C adversely affects plant tissues thereby slowing down physiological activities."
+    ],
+    "plantnutrition": [
+      "Nitrogen and potassium uptake is initially slow but rapidly increases during the flowering stages. Potassium is peaking during fruit development, and nitrogen uptake occurs mainly after the formation of the first fruit."
+    ],
+    "fertilizersuggestion": [
+      "The fertilizer dose depends upon the fertility of soil and amount of organic manure applied to the crop.For a good yield, 15-20 tonnes of well-decomposed FYM is incorporated into the soil.",
+      "Generally, application of 120 kg N, 80 kg P205 and 50 kg K20 per hectare is recommended for getting optimum yield.",
+      "Half dose of N and full dose of P and K is given at the time of planting.",
+      "The balance half of N is given as top dressing 30 days after transplanting.",
+      "For hybrid varieties, the recommended dose per hectare is 180 kg N, 100 kg P2 05 and 60 kg K2 0.60 kg N and half of P & K are given at the time of transplanting.",
+      "Remaining quantities of P&Kand 60 kg N is top dressed 30 after transplanting.",
+      "A third dose of 60 kg N is applied 50 days after transplarnting.",
+      "Spray 1.25 ppm (625 ml in 500 litres of water) Triacontanol/ BIOMAXX/HORTICULTURE SPECIAL 400-50OML/ACRE at 15 days after transplanting and at full bloom stage to increase the yield.",
+      "Foliar spray of ZnS04 @ 0.5 per cent thrice at 1"
+    ],
+    "aboutImage":"assets/images/tomato_about.png",
+    "growingImage":"assets/images/tomato_growth.png",
+    "nutritionImage":"assets/images/tomato_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "cucumber": {
+    "about": [
+      "Cucumber(Cucumis sativus)is cultivated for fresh consumption or as pickling cucumber for preservation, marinated with vinegar, salt,dill or other spices.It is an important salad crop cultivated both in north and south and lower as well as higher hills in India. Fruits varying in shape, size and colour contain 0.4% protein, 2.5% carbohydrates, 1.5mg iron,2mg of vitamin C in 100 gm of fresh weight.Fruits are good for people suffering from constipation,jaundice and indigestion."
+    ],
+    "growing": [
+      "In southern and central India, it is sown in October-November.In plains of north eastern india,sowing time is from November to march when weather is comparatively dry.In Maharashtra, itshould be sown in januay-february(summer crop) and June-July(rainy season crop) Generally soaking of seeds in water or 0.1% Bavistin for a few hours before sowing enhances their germination. In India,furrow bed and pit (deep and shallow mounds)sowing methods are followed.In furrow sowing,furrows are made at 1.0-1.5m apart. Usually sowing is done on the top of the sides of furrows and vines are allowed to trail on the ground especially in summer season. The hills should be made at a distance of 0.5-0.75m.About 5-6 seeds are sown in a pit and finally two vines are retained."
+    ],
+    "plantnutrition": [
+      "Cucumbers need moderate nitrogen and high phosphorus and potassium, so an organic plant food with the first number lower than the last two (like 3-4-6) is good. Keep plants well-watered to avoid bitter-tasting cucumbers.",
+      "Cucumbers require different levels of nutrients at different stages of growth: Growth: Cucumbers need more nitrogen during this stage. Flowering and setting fruit: Cucumbers need more potassium during this stage.",
+      "Some common nutrient disorders in cucumber plants include: Potassium deficiency: This causes yellowing between the veins of the oldest leaves.Boron deficiency: This causes yellow streaks and corky markings on the fruit."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers 40 to 50 cartloads well decomposed FarmYard Manure (FYM) should be added at the time of soil preparation.",
+      "At the time of land preparation apply fertilizer dose of Nitrogen @ 40 kg (Urea @ 90kg), Phosphorus @ 20 kg (Single phosphate @ 125 kg) and Potassium @ 20 kg (Muriate of potash @ 35 kg) as a basal dose. At the time of sowing, apply one-third of the Nitrogen dose along with Potassium and Single superphosphate. At the early stage of vein production i.e. one month of sowing apply the rest of the dose.",
+      "Some fertilizers that can be used for cucumbers include: Organic plant food: With the first number lower than the last two Potassium nitrate: Such as Multi-K™ Calcium nitrate: Such as Haifa Cal™. Ammonium nitrate: Such as 33-0-0."
+    ],
+    "aboutImage":"assets/images/cucumber_about.png",
+    "growingImage":"assets/images/cucumber_growth.png",
+    "nutritionImage":"assets/images/cucumber_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "redchili": {
+    "about": [
+      "Red chili (Capsicum annuum) is a popular spice crop used globally for its pungent flavor and color. It is extensively grown in both tropical and subtropical regions. In India, red chili is an important commercial crop cultivated in states like Andhra Pradesh, Maharashtra, Karnataka, and Tamil Nadu. The fruits are rich in vitamin C, provitamin A, and capsaicin, which imparts the characteristic heat. They are used fresh, dried, or processed into powder and are a staple in various culinary dishes."
+    ],
+    "growing": [
+      "Red chili is typically sown in different seasons depending on the region. In northern India, it is usually sown from January to February for a summer crop and from June to July for a rainy season crop. In southern India, it is sown from October to November. Optimal growth requires a well-drained loamy soil with a pH of 6.0-7.0. Before sowing, seeds can be treated with fungicides like Bavistin (0.1%) to prevent soil-borne diseases. Planting can be done using transplanting or direct seeding methods. Transplanting is often preferred for better control over plant spacing and early growth."
+    ],
+    "plantnutrition": [
+      "Red chili plants require balanced nutrition with a slightly higher demand for nitrogen during the vegetative stage and more potassium during flowering and fruiting stages. An organic fertilizer with a balanced ratio like 5-5-5 can be used during early growth, while a formula higher in potassium like 4-6-8 is suitable during fruiting.",
+      "Key nutrients required at different stages: Vegetative growth: Higher nitrogen content is essential for foliage development. Flowering and fruit setting: Increased potassium levels support flower and fruit development.",
+      "Common nutrient disorders in red chili plants include: Nitrogen deficiency: This causes stunted growth and yellowing of older leaves. Potassium deficiency: This results in leaf edge browning and reduced fruit quality. Calcium deficiency: This leads to blossom end rot, particularly in younger fruits."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers: Apply well-decomposed FarmYard Manure (FYM) at 20-25 tons per hectare during soil preparation.",
+      "A recommended fertilizer dose includes: Nitrogen (N) at 100 kg/ha, Phosphorus (P2O5) at 50 kg/ha, and Potassium (K2O) at 50 kg/ha. Apply one-third of the nitrogen dose along with the full doses of phosphorus and potassium as a basal application during transplanting or sowing. The remaining nitrogen should be applied in two split doses, one at 30 days after planting and the other at the flowering stage.",
+      "Some specific fertilizers for red chili include: Urea for nitrogen supply, Single super phosphate for phosphorus, and Muriate of potash for potassium. Foliar sprays with micronutrients like calcium nitrate and magnesium sulfate can also help in preventing nutrient deficiencies and improving fruit quality."
+    ],
+    "aboutImage":"assets/images/chillie_about.png",
+    "growingImage":"assets/images/chillie_growth.png",
+    "nutritionImage":"assets/images/chillie_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "potato": {
+    "about": [
+      "Potato (Solanum tuberosum) is a staple food crop grown worldwide for its edible tubers. It is an important source of carbohydrates, vitamins, and minerals, including vitamin C, vitamin B6, and potassium. In India, potatoes are grown extensively in states like Uttar Pradesh, West Bengal, Bihar, and Punjab. Potatoes can be consumed in various forms including boiled, baked, or fried, and are a key ingredient in many culinary dishes."
+    ],
+    "growing": [
+      "Potatoes can be planted in different seasons depending on the region. In northern India, the planting season is from October to December. In southern and western India, it can be planted from September to November and from January to March. Potatoes prefer well-drained, loamy soil with a pH of 5.0-6.5. It is beneficial to treat the seed potatoes with a fungicide to prevent diseases before planting. Planting is usually done by placing seed tubers or cut pieces of tubers with at least one 'eye' into furrows spaced 60-75 cm apart, with a planting depth of 10-15 cm."
+    ],
+    "plantnutrition": [
+      "Potatoes require a balanced nutrient supply, with particular emphasis on phosphorus and potassium for tuber development. A general-purpose fertilizer with a ratio like 10-10-20 is beneficial during the growing season.",
+      "Key nutrients required at different stages: Early growth: High nitrogen content promotes vigorous foliage growth. Tuber initiation and bulking: Increased phosphorus and potassium levels support tuber development.",
+      "Common nutrient disorders in potato plants include: Nitrogen deficiency: This causes yellowing of lower leaves and poor growth. Potassium deficiency: This results in leaf edge browning and reduced tuber quality. Magnesium deficiency: This causes interveinal chlorosis in older leaves."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers: Apply well-decomposed FarmYard Manure (FYM) at 20-25 tons per hectare during soil preparation.",
+      "A recommended fertilizer dose includes: Nitrogen (N) at 120-150 kg/ha, Phosphorus (P2O5) at 60-80 kg/ha, and Potassium (K2O) at 100-120 kg/ha. Apply the full dose of phosphorus and potassium along with one-third of the nitrogen at planting. The remaining nitrogen should be applied in two split doses, one at the earthing up stage (20-30 days after planting) and the other at the tuber bulking stage (60 days after planting).",
+      "Some specific fertilizers for potatoes include: Urea for nitrogen supply, Single super phosphate for phosphorus, and Muriate of potash for potassium. Foliar sprays with micronutrients like calcium nitrate and magnesium sulfate can also help in preventing nutrient deficiencies and improving tuber quality."
+    ],
+    "aboutImage":"assets/images/potato_about.png",
+    "growingImage":"assets/images/potato_growth.png",
+    "nutritionImage":"assets/images/potato_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "brinjal": {
+    "about": [
+      "Brinjal (Solanum melongena), also known as eggplant or aubergine, is a widely grown vegetable crop valued for its edible fruits. It is a significant source of vitamins A and C, potassium, and fiber. In India, brinjal is cultivated extensively in states like West Bengal, Odisha, Gujarat, and Maharashtra. The fruit comes in various shapes, sizes, and colors, including purple, green, and white. Brinjal is used in a variety of dishes and is a staple in Indian cuisine."
+    ],
+    "growing": [
+      "Brinjal can be cultivated in tropical and subtropical regions throughout the year, but the best planting seasons are from June to July and January to February in most parts of India. It prefers well-drained loamy soil with a pH of 5.5-6.6. Before planting, seeds can be treated with a fungicide like Bavistin (0.1%) to prevent seed-borne diseases. The seeds are typically sown in nurseries, and the seedlings are transplanted to the main field when they are 4-6 weeks old, spaced 60-75 cm apart in rows with 45-60 cm between plants."
+    ],
+    "plantnutrition": [
+      "Brinjal plants require a balanced supply of nutrients, with a higher demand for nitrogen during the vegetative growth stage and more phosphorus and potassium during flowering and fruiting stages. A balanced fertilizer ratio like 10-10-10 can be used during early growth, while a higher potassium formula like 5-10-10 is suitable during fruiting.",
+      "Key nutrients required at different stages: Vegetative growth: High nitrogen content promotes healthy leaf and stem development. Flowering and fruit setting: Increased phosphorus and potassium levels support flowering and fruit development.",
+      "Common nutrient disorders in brinjal plants include: Nitrogen deficiency: Causes yellowing of older leaves and stunted growth. Potassium deficiency: Results in browning of leaf edges and poor fruit quality. Calcium deficiency: Leads to blossom end rot and poor fruit set."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers: Apply well-decomposed FarmYard Manure (FYM) at 20-25 tons per hectare during soil preparation.",
+      "A recommended fertilizer dose includes: Nitrogen (N) at 100-120 kg/ha, Phosphorus (P2O5) at 50-60 kg/ha, and Potassium (K2O) at 50-60 kg/ha. Apply one-third of the nitrogen dose along with the full doses of phosphorus and potassium as a basal application during transplanting. The remaining nitrogen should be applied in two split doses, one at 30 days after transplanting and the other at the flowering stage.",
+      "Some specific fertilizers for brinjal include: Urea for nitrogen supply, Single super phosphate for phosphorus, and Muriate of potash for potassium. Foliar sprays with micronutrients like calcium nitrate and magnesium sulfate can help prevent nutrient deficiencies and improve fruit quality."
+    ],
+    "aboutImage":"assets/images/brinjal_about.png",
+    "growingImage":"assets/images/brinjal_growth.png",
+    "nutritionImage":"assets/images/brinjal_plant_nutrition_new.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "sugarcane": {
+    "about": [
+      "Sugarcane (Saccharum officinarum) is a tropical and subtropical crop grown primarily for its juice from which sugar is processed. It is a significant source of sucrose and is used for producing sugar, ethanol, and other by-products. In India, sugarcane is an important cash crop cultivated extensively in states like Uttar Pradesh, Maharashtra, Karnataka, and Tamil Nadu. The crop is also used for producing jaggery, molasses, and biofuel."
+    ],
+    "growing": [
+      "Sugarcane is typically planted in tropical and subtropical regions with a warm and humid climate. The ideal temperature range for sugarcane cultivation is 20-40°C. The crop is usually planted in two main seasons: autumn (September to October) and spring (February to March) in northern India. In southern and western India, planting is done from January to February and June to July. Sugarcane prefers well-drained loamy or sandy loam soil with a pH of 6.0-7.5. The crop is propagated by planting stem cuttings (setts) with 2-3 buds each. These setts are planted in furrows spaced 75-90 cm apart and covered with soil."
+    ],
+    "plantnutrition": [
+      "Sugarcane requires a balanced supply of nutrients, with particular emphasis on nitrogen for vegetative growth and potassium for sucrose accumulation. An initial fertilizer ratio like 10-10-10 can be used, followed by a higher potassium formula like 5-10-15 during the latter stages of growth.",
+      "Key nutrients required at different stages: Early growth: High nitrogen content promotes vigorous tillering and canopy development. Grand growth period: Balanced phosphorus and potassium levels support strong root and shoot growth. Ripening: Increased potassium supports sucrose accumulation in the stalks.",
+      "Common nutrient disorders in sugarcane plants include: Nitrogen deficiency: Causes stunted growth and yellowing of leaves. Potassium deficiency: Leads to reduced sucrose content and poor quality stalks. Magnesium deficiency: Causes yellowing between the veins of older leaves."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers: Apply well-decomposed FarmYard Manure (FYM) at 25-30 tons per hectare during soil preparation.",
+      "A recommended fertilizer dose includes: Nitrogen (N) at 150-200 kg/ha, Phosphorus (P2O5) at 60-80 kg/ha, and Potassium (K2O) at 80-100 kg/ha. Apply one-third of the nitrogen dose along with the full doses of phosphorus and potassium as a basal application at planting. The remaining nitrogen should be applied in two split doses, one at the early tillering stage (30-45 days after planting) and the other during the grand growth period (90-120 days after planting).",
+      "Some specific fertilizers for sugarcane include: Urea for nitrogen supply, Single super phosphate for phosphorus, and Muriate of potash for potassium. Foliar sprays with micronutrients like zinc sulfate and magnesium sulfate can help in preventing nutrient deficiencies and improving crop health and yield."
+    ],
+    "aboutImage":"assets/images/sugarcane_about.png",
+    "growingImage":"assets/images/sugarcane_growth.png",
+    "nutritionImage":"assets/images/sugarcane_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "carrot": {
+    "about": [
+      "Carrot (Daucus carota) is a root vegetable known for its crisp texture and sweet flavor. It is rich in beta-carotene, fiber, vitamins A, C, and K, and potassium. Carrots are commonly used in salads, soups, and various culinary dishes. In India, they are grown extensively in states like Punjab, Uttar Pradesh, Karnataka, and Haryana."
+    ],
+    "growing": [
+      "Carrots are typically grown in cool seasons. In northern India, they are sown from October to December, while in southern India, sowing can be done from July to September. Carrots prefer well-drained sandy loam soil with a pH of 6.0-6.8. Seeds are sown directly in the field at a depth of 1-2 cm, with rows spaced 30-45 cm apart and plants thinned to 5-8 cm apart. Consistent moisture is crucial for good root development."
+    ],
+    "plantnutrition": [
+      "Carrots require balanced nutrition with a slightly higher demand for potassium. A general-purpose fertilizer like 10-10-10 can be used during the growing season.",
+      "Key nutrients required at different stages: Early growth: Moderate nitrogen promotes foliage development. Root development: Higher potassium supports healthy root formation.",
+      "Common nutrient disorders in carrot plants include: Nitrogen deficiency: Causes pale, yellowing leaves. Potassium deficiency: Results in reduced root growth and quality."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers: Apply well-decomposed FarmYard Manure (FYM) at 20-25 tons per hectare during soil preparation.",
+      "A recommended fertilizer dose includes: Nitrogen (N) at 60-80 kg/ha, Phosphorus (P2O5) at 40-50 kg/ha, and Potassium (K2O) at 50-60 kg/ha. Apply the full doses of phosphorus and potassium along with half the nitrogen at sowing. The remaining nitrogen should be applied as a side-dressing 4-6 weeks after sowing.",
+      "Some specific fertilizers for carrots include: Urea for nitrogen supply, Single super phosphate for phosphorus, and Muriate of potash for potassium."
+    ],
+    "aboutImage":"assets/images/carrot_about.png",
+    "growingImage":"assets/images/carrot_growth.png",
+    "nutritionImage":"assets/images/carrot_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "orange": {
+    "about": [
+      "Orange (Citrus sinensis) is a citrus fruit known for its sweet flavor and high vitamin C content. It is also a good source of dietary fiber, folate, and antioxidants. In India, oranges are grown extensively in states like Maharashtra, Madhya Pradesh, Punjab, and Rajasthan. Oranges are consumed fresh, juiced, or used in various culinary dishes and beverages."
+    ],
+    "growing": [
+      "Oranges are typically grown in tropical and subtropical regions. The ideal temperature range for orange cultivation is 15-30°C. Oranges prefer well-drained sandy loam soil with a pH of 5.5-7.0. Planting is usually done during the monsoon season (June to August) or spring (February to March). Oranges are propagated by budding or grafting onto rootstocks. Trees should be spaced 6-8 meters apart in rows."
+    ],
+    "plantnutrition": [
+      "Oranges require balanced nutrition with a higher demand for potassium and nitrogen. A fertilizer ratio like 15-15-15 can be used during early growth, followed by 12-6-18 during fruit development.",
+      "Key nutrients required at different stages: Early growth: High nitrogen content promotes healthy leaf and shoot development. Flowering and fruit setting: Increased potassium supports flower and fruit development.",
+      "Common nutrient disorders in orange plants include: Nitrogen deficiency: Causes yellowing of older leaves. Potassium deficiency: Leads to poor fruit quality and reduced yield. Magnesium deficiency: Results in interveinal chlorosis on older leaves."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers: Apply well-decomposed FarmYard Manure (FYM) at 20-30 tons per hectare during soil preparation.",
+      "A recommended fertilizer dose includes: Nitrogen (N) at 150-200 kg/ha, Phosphorus (P2O5) at 50-60 kg/ha, and Potassium (K2O) at 100-120 kg/ha. Apply one-third of the nitrogen dose along with the full doses of phosphorus and potassium as a basal application. The remaining nitrogen should be applied in two split doses, one at flowering and the other during fruit development.",
+      "Some specific fertilizers for oranges include: Urea for nitrogen supply, Single super phosphate for phosphorus, and Muriate of potash for potassium. Foliar sprays with micronutrients like zinc sulfate and magnesium sulfate can help in preventing nutrient deficiencies and improving fruit quality."
+    ],
+    "aboutImage":"assets/images/orange_about.png",
+    "growingImage":"assets/images/orange_growth.png",
+    "nutritionImage":"assets/images/orange_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "guava": {
+    "about": [
+      "Guava (Psidium guajava) is a tropical fruit known for its sweet and slightly tangy flavor. It is rich in dietary fiber, vitamin C, vitamin A, and various antioxidants. In India, guava is grown extensively in states like Uttar Pradesh, Maharashtra, Bihar, and Tamil Nadu. Guavas are consumed fresh, used in beverages, and made into jams and jellies."
+    ],
+    "growing": [
+      "Guavas thrive in tropical and subtropical regions with a warm climate. They can be planted throughout the year except during extreme summer and winter. The ideal temperature range for guava cultivation is 23-28°C. Guavas prefer well-drained loamy soil with a pH of 5.5-7.0. The planting distance for guava trees is generally 5-6 meters apart. Guavas are propagated by seeds, grafting, or air layering."
+    ],
+    "plantnutrition": [
+      "Guava plants require a balanced supply of nutrients, with a higher demand for nitrogen and potassium. A fertilizer ratio like 10-10-10 can be used during the early growth stage, followed by a higher potassium formula like 8-12-20 during fruiting.",
+      "Key nutrients required at different stages: Early growth: High nitrogen content promotes vigorous leaf and stem growth. Flowering and fruit setting: Increased potassium supports flower and fruit development.",
+      "Common nutrient disorders in guava plants include: Nitrogen deficiency: Causes yellowing of leaves and poor growth. Potassium deficiency: Leads to poor fruit quality and reduced yield. Iron deficiency: Results in interveinal chlorosis of young leaves."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers: Apply well-decomposed FarmYard Manure (FYM) at 20-25 tons per hectare during soil preparation.",
+      "A recommended fertilizer dose includes: Nitrogen (N) at 100-120 kg/ha, Phosphorus (P2O5) at 50-60 kg/ha, and Potassium (K2O) at 80-100 kg/ha. Apply one-third of the nitrogen dose along with the full doses of phosphorus and potassium as a basal application. The remaining nitrogen should be applied in two split doses, one at the pre-flowering stage and the other during fruit development.",
+      "Some specific fertilizers for guavas include: Urea for nitrogen supply, Single super phosphate for phosphorus, and Muriate of potash for potassium. Foliar sprays with micronutrients like zinc sulfate and ferrous sulfate can help in preventing nutrient deficiencies and improving fruit quality."
+    ],
+    "aboutImage":"assets/images/guava_about.png",
+    "growingImage":"assets/images/guava_growth.png",
+    "nutritionImage":"assets/images/guava_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "papaya": {
+    "about": [
+      "Papaya (Carica papaya) is a tropical fruit known for its sweet, musky flavor and vibrant orange flesh. It is rich in vitamins A, C, and E, folate, and dietary fiber. In India, papaya is grown extensively in states like Maharashtra, Karnataka, Andhra Pradesh, and Tamil Nadu. Papayas are consumed fresh, juiced, or used in various culinary dishes and desserts."
+    ],
+    "growing": [
+      "Papaya grows best in tropical and subtropical regions with warm temperatures ranging from 25-30°C. It prefers well-drained sandy loam soil with a pH of 6.0-6.5. Papaya can be planted throughout the year except during extreme winter. Propagation is typically done by seeds, which are sown directly in the field or in nurseries for transplanting. Plants should be spaced 1.8-2.5 meters apart in rows, with rows spaced 3 meters apart."
+    ],
+    "plantnutrition": [
+      "Papaya plants require a balanced supply of nutrients, with a higher demand for nitrogen during early growth and more potassium during flowering and fruiting stages. A general-purpose fertilizer like 10-10-10 can be used during the growing season, followed by a formula like 8-24-24 during fruit development.",
+      "Key nutrients required at different stages: Early growth: High nitrogen promotes vigorous leaf and stem growth. Flowering and fruit setting: Increased phosphorus and potassium support flower and fruit development.",
+      "Common nutrient disorders in papaya plants include: Nitrogen deficiency: Causes yellowing of older leaves and stunted growth. Potassium deficiency: Leads to poor fruit quality and reduced yield. Magnesium deficiency: Results in yellowing between leaf veins."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers: Apply well-decomposed FarmYard Manure (FYM) at 20-25 tons per hectare during soil preparation.",
+      "A recommended fertilizer dose includes: Nitrogen (N) at 100-150 kg/ha, Phosphorus (P2O5) at 50-75 kg/ha, and Potassium (K2O) at 100-150 kg/ha. Apply one-third of the nitrogen dose along with the full doses of phosphorus and potassium as a basal application. The remaining nitrogen should be applied in two split doses, one at 2 months and the other at 4 months after planting.",
+      "Some specific fertilizers for papaya include: Urea for nitrogen supply, Single super phosphate for phosphorus, and Muriate of potash for potassium. Foliar sprays with micronutrients like zinc sulfate and magnesium sulfate can help in preventing nutrient deficiencies and improving fruit quality."
+    ],
+    "aboutImage":"assets/images/papaya_about.png",
+    "growingImage":"assets/images/papaya_growth.png",
+    "nutritionImage":"assets/images/papaya_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  },
+  "watermelon": {
+    "about": [
+      "Watermelon (Citrullus lanatus) is a popular fruit known for its sweet, juicy flesh and high water content. It is rich in vitamins A and C, antioxidants, and amino acids. In India, watermelon is grown extensively in states like Karnataka, Tamil Nadu, Maharashtra, and Andhra Pradesh. Watermelons are consumed fresh, juiced, or used in salads and desserts."
+    ],
+    "growing": [
+      "Watermelon grows best in warm climates with temperatures ranging from 25-30°C. It prefers well-drained sandy loam soil with a pH of 6.0-7.5. Watermelon is typically sown during the summer (January to March) and monsoon (June to July) seasons in India. Seeds are sown directly in the field at a depth of 2-3 cm, with rows spaced 1.5-2 meters apart and plants thinned to 60-90 cm apart.",
+      "In areas with shorter growing seasons or cooler climates, watermelon can also be started indoors and transplanted outdoors once the danger of frost has passed."
+    ],
+    "plantnutrition": [
+      "Watermelon plants require a balanced supply of nutrients, with a higher demand for nitrogen during early growth and more potassium during flowering and fruiting stages. A balanced fertilizer like 10-10-10 can be used during the growing season, followed by a formula like 5-15-15 during fruit development.",
+      "Key nutrients required at different stages: Early growth: High nitrogen promotes vigorous leaf and vine growth. Flowering and fruit setting: Increased potassium supports flower and fruit development.",
+      "Common nutrient disorders in watermelon plants include: Nitrogen deficiency: Causes pale, yellowing leaves and stunted growth. Potassium deficiency: Results in poor fruit quality and reduced yield. Calcium deficiency: Leads to blossom end rot."
+    ],
+    "fertilizersuggestion": [
+      "Manures and Fertilizers: Apply well-decomposed FarmYard Manure (FYM) at 20-25 tons per hectare during soil preparation.",
+      "A recommended fertilizer dose includes: Nitrogen (N) at 60-80 kg/ha, Phosphorus (P2O5) at 40-50 kg/ha, and Potassium (K2O) at 80-100 kg/ha. Apply the full doses of phosphorus and potassium along with half the nitrogen at planting. The remaining nitrogen should be applied as a side-dressing 4-6 weeks after planting.",
+      "Some specific fertilizers for watermelon include: Urea for nitrogen supply, Single super phosphate for phosphorus, and Muriate of potash for potassium. Foliar sprays with micronutrients like calcium nitrate and magnesium sulfate can help in preventing nutrient deficiencies and improving fruit quality."
+    ],
+    "aboutImage":"assets/images/watermelon_about.png",
+    "growingImage":"assets/images/watermelon_growth.png",
+    "nutritionImage":"assets/images/watermelon_nutrition.png",
+    "suggestionImage":"assets/images/fertilizer_suggestion_new.png"
+  }
+}
